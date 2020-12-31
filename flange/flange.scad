@@ -1,3 +1,5 @@
+// inspired by https://www.youtube.com/watch?v=aea0Ta7S8uk
+
 $fn = 30;
 
 thickness = .25;
